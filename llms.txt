@@ -1,0 +1,16 @@
+# Diagnóstico Motor · Sierra de Madrid
+
+> Diagnosis electrónica de coches y furgonetas a domicilio
+> en la Sierra Noroeste de Madrid, con cita previa.
+
+## Servicios
+- [Portada](https://mipiu.com/): descripción del servicio y solicitud de cita.
+- [Servicios](https://mipiu.com/#servicios): capacidades de diagnosis.
+- [Zona de servicio](https://mipiu.com/#zona-de-servicio): localidades atendidas.
+- [Preguntas frecuentes](https://mipiu.com/#preguntas-frecuentes): alcance y límites.
+- [Contacto](https://mipiu.com/#contacto): solicitar una diagnosis.
+
+## Cobertura
+San Lorenzo de El Escorial, El Escorial,
+Collado Villalba y Guadarrama.
+Consultar disponibilidad en localidades cercanas.
