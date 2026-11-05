@@ -1,5 +1,26 @@
+# General search engines and crawlers
 User-agent: *
 Allow: /
- 
+
+# ChatGPT Search
+User-agent: OAI-SearchBot
+Allow: /
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Claude Search
+User-agent: Claude-SearchBot
+Allow: /
+
+# Sitemap
 Sitemap: https://mipiu.com/sitemap.xml
- 
